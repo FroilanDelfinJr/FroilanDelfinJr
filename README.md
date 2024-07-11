@@ -31,8 +31,10 @@ December 03, 2022</p>
 Oracle Corporation<br>
 November 21, 2022</p>
 
-# 🖥️ Tech Stack:
-
+# 🖥️ Tech Achievement:
+<h2 align="center">Power BI Projects</h2>
+![sodareport](https://github.com/user-attachments/assets/e348c030-b9f3-4244-b1f2-b43f6532d611)
+<p><a href="https://app.powerbi.com/view?r=eyJrIjoiNWFjYTE5OTMtODA4MC00MTAwLThjNmQtNWY0NzEwMWE5MDYzIiwidCI6ImQyMWUwYTU3LTdjMjYtNDZiYy1iYTliLTk5NjQxYzA5NTU5YSIsImMiOjEwfQ%3D%3D">Soda Report for the Year 2022</a></p>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
