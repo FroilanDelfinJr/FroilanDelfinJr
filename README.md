@@ -1,35 +1,48 @@
 <h1 align="center">Froilan Delfin Jr.</h1>
 <h4 align="center">Computer Science Student from New Era University, Quezon City, Philippines</h4>
 
-## 🎓 Education
+# 🎓 Education
 <p>BS Computer Science<br>
 New Era University<br>
-2021 - Present</p>
+2021 - Present</p><br>
 
-## 📒 Certifications
-<p><a href="https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwngWqSbCBjkjxCLRZWPHQlKr?projector=1">PWNEU CTF</a><br>
-NEU CICS<br>
-May 15, 2024</p>
+# 📒 Certifications
 
-<p><a href="https://www.kaggle.com/learn/certification/froilandelfinjr/intro-to-programming">Intro to Programming</a><br>
+<p align="center"><a href="https://www.kaggle.com/learn/certification/froilandelfinjr/intro-to-programming"><img src="https://github.com/user-attachments/assets/f5d1ed45-9a9f-4c46-9e96-080c638c664c" width="600" height="370"></a><br>
+Intro to Programming<br>
 Kaggle<br>
 November 9, 2023</p>
+<br>
 
-<p><a href="https://www.credly.com/badges/7fbfa36e-e068-43a4-a516-0079fe408ff4/public_url">Data Analytics Essentials</a><br>
+<p align="center"><a href="https://www.credly.com/badges/7fbfa36e-e068-43a4-a516-0079fe408ff4/public_url"><img src="https://github.com/user-attachments/assets/22ebdddd-2a27-4ee7-9570-bc6e2783b1d7" width="600" height="464"></a><br>
+Data Analytics Essentials<br>
 Cisco<br>
 October 6, 2023</p>
+<br>
 
-<p><a href="https://simpli-web.app.link/e/ZFmbgeTE9Kb">Business Analytics with Excel</a><br>
+<p align="center"><a href="https://simpli-web.app.link/e/ZFmbgeTE9Kb"><img src="https://github.com/user-attachments/assets/cebeec48-6b1f-4b57-a3fb-4aacf2657936" width="600" height="418"></a><br>
+Business Analytics with Excel<br>
 Simplilearn Corporation<br>
 September 8, 2023</p>
+<br>
 
-<p><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A22349219341FE52A7DAE79BF7A09041989E2AC1A22568138D068A46CECB885A">Oracle Cloud Data Management 2022 Foundations Certified Associate</a><br>
+<p align="center"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A22349219341FE52A7DAE79BF7A09041989E2AC1A22568138D068A46CECB885A"><img src="https://github.com/user-attachments/assets/6e65575a-2ca5-4062-b483-4141977368cb"></a><br>
+Oracle Cloud Data Management 2022 Foundations Certified Associate<br>
 Oracle Corporation<br>
 December 03, 2022</p>
+<br>
 
-<p><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=47EDC181D2757E7B662821F895E6FA6713A635C4210DDBEBA1FBBCC2193A2D82">Oracle Cloud Infrastructure 2022 Certified Foundations Associate</a><br>
+<p align="center"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=47EDC181D2757E7B662821F895E6FA6713A635C4210DDBEBA1FBBCC2193A2D82"><img src="https://github.com/user-attachments/assets/3995cd1f-224b-41c3-a30b-eda02a7c6ab8"></a><br>
+Oracle Cloud Infrastructure 2022 Certified Foundations Associate<br>
 Oracle Corporation<br>
 November 21, 2022</p>
+<br>
+
+<p align="center"><a href="https://courses.cognitiveclass.ai/certificates/18620b0497104b7498620f52fa483626#"><img src="https://github.com/user-attachments/assets/6a9ac30b-14bb-43e7-9eaf-ad4530ddef08" width="600" height="425"></a><br>
+SQL and Relational Databases 101<br>
+Cognitive Class<br>
+October 31, 2022</p>
+<br>
 
 # 🖥️ Tech Achievement:
 <h2 align="center">Power BI Projects</h2>
