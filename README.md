@@ -46,14 +46,30 @@ October 31, 2022</p>
 
 # 🖥️ Tech Achievement:
 <h2 align="center">Power BI Projects</h2>
-<p><a href="https://app.powerbi.com/view?r=eyJrIjoiNWFjYTE5OTMtODA4MC00MTAwLThjNmQtNWY0NzEwMWE5MDYzIiwidCI6ImQyMWUwYTU3LTdjMjYtNDZiYy1iYTliLTk5NjQxYzA5NTU5YSIsImMiOjEwfQ%3D%3D">Soda Report for the Year 2022</a></p>
+<p align="center">Professional Elective 4 Course Report<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZTBiN2QyNmItNmI3Zi00YjlhLWEyYmEtNWQyZDEyZDAwNDNlIiwidCI6ImQyMWUwYTU3LTdjMjYtNDZiYy1iYTliLTk5NjQxYzA5NTU5YSIsImMiOjEwfQ%3D%3D"><img src="https://github.com/user-attachments/assets/e2026794-e37a-4a7e-8f16-acc2ffa6023c" width="600" height="327"></a><br>
+
+<p align="center">Snack Report<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNjVhYjhhZWQtMDY5ZS00MGFkLWJkNmYtN2VhYWVkYTE0NDU2IiwidCI6ImQyMWUwYTU3LTdjMjYtNDZiYy1iYTliLTk5NjQxYzA5NTU5YSIsImMiOjEwfQ%3D%3D"><img src="https://github.com/user-attachments/assets/681a69d4-07a7-4cb4-bdc2-013c1d8212d4" width="600" height="312"></a><br>
+
+<p align="center">Soda Report for the Year 2022<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNWFjYTE5OTMtODA4MC00MTAwLThjNmQtNWY0NzEwMWE5MDYzIiwidCI6ImQyMWUwYTU3LTdjMjYtNDZiYy1iYTliLTk5NjQxYzA5NTU5YSIsImMiOjEwfQ%3D%3D"><img src="https://github.com/user-attachments/assets/8406eedb-0043-4ef3-8186-1e1f2f32fa28" width="600" height="329"></a><br>
 
 <h2 align="center">Software Engineering Projects</h2>
-<p><a href="https://github.com/FroilanDelfinJr/decoratorPattern">Decorator Pattern</a></p>
-<p><a href="https://github.com/FroilanDelfinJr/facadePattern">Facade Pattern</a></p>
-<p><a href="https://github.com/FroilanDelfinJr/commandPattern">Command Pattern</a></p>
-<p><a href="https://github.com/FroilanDelfinJr/StatePattern">State Pattern</a></p>
-<p><a href="https://github.com/FroilanDelfinJr/StrategyPattern">Strategy Pattern</a></p>
+<p align="center">Decorator Pattern<br>
+<a href="https://github.com/FroilanDelfinJr/decoratorPattern"><img src="https://github.com/user-attachments/assets/56311f23-f3ce-482e-a9e4-a738148beca5" width="600" height="396"></a><br>
+
+<p align="center">Facade Pattern<br>
+<a href="https://github.com/FroilanDelfinJr/facadePattern"><img src="https://github.com/user-attachments/assets/3d66a132-b614-4cdb-ae46-f9c72f63083f" width="600" height="230"></a><br>
+
+<p align="center">Command Patternn<br>
+<a href="https://github.com/FroilanDelfinJr/commandPattern"><img src="https://github.com/user-attachments/assets/ec208f2c-5df2-4dc5-88b2-e9ed328845f3" width="600" height="413"></a><br>
+
+<p align="center">State Pattern<br>
+<a href="https://github.com/FroilanDelfinJr/StatePattern"><img src="https://github.com/user-attachments/assets/29659051-8c75-43bd-8e12-3bbe6771859c" width="600" height="204"></a><br>
+
+<p align="center">Strategy Pattern<br>
+<a href="https://github.com/FroilanDelfinJr/StrategyPattern"><img src="https://github.com/user-attachments/assets/7ddcf071-83c7-474c-bb4f-9f1c0e5ac56b" width="600" height="430"></a><br>
 
 # 💻 Tech Stack:
 
